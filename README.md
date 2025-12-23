@@ -70,3 +70,5 @@ Treatment Efficacy: The 5M cocktail induced the most significant expression shif
 Lineage Transition: Day 7 represents a critical "transition state," while Day 14 samples show clear upregulation of platelet-specific pathways (hemostasis, wound healing) and downregulation of T-cell immune markers.
 
 OAS1 Role: Identified as a key protein in the transition; MD simulations confirm stable binding potential with cocktail ligands.
+
+<img width="3000" height="3000" alt="Graphs full" src="https://github.com/user-attachments/assets/ce631806-aa48-47f6-819b-935dd8f4aa61" />
