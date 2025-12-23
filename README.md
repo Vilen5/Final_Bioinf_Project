@@ -7,8 +7,6 @@ Affiliation: Biotechnology Biomolecular Chemistry Department, Faculty of Science
 This project investigates the computational evidence for chemically reprogramming human CD3+ T-cells into Induced Megakaryocytes (iMKs) and platelets using a five-molecule cocktail (5M). By utilizing integrative multi-omics analysis (Bulk and Single-cell RNA-Seq) and molecular dynamics simulations, we identified OAS1 as a potential critical node mediating this lineage transition.
 
 📂 Repository Structure
-Final_Report.pdf: The complete scientific report detailing the theoretical basis, methodology, and discussion of results.
-
 Bulk RNA Seq.r: R script containing the pipeline for bulk RNA-Seq analysis, including preprocessing, Differential Expression Analysis (DESeq2), and Pathway Enrichment (GSEA/ORA).
 
 scRNA-Seq Analysis.R: R script for single-cell RNA-Seq analysis, covering Quality Control, Dimensionality Reduction (PCA/UMAP), Clustering, Harmony Integration, and Cell Type Annotation.
