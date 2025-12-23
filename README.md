@@ -71,4 +71,5 @@ Lineage Transition: Day 7 represents a critical "transition state," while Day 14
 
 OAS1 Role: Identified as a key protein in the transition; MD simulations confirm stable binding potential with cocktail ligands.
 
-<img width="3000" height="3000" alt="Graphs full" src="https://github.com/user-attachments/assets/ce631806-aa48-47f6-819b-935dd8f4aa61" />
+
+<img width="7000" height="7000" alt="Graph-700DPI" src="https://github.com/user-attachments/assets/6cca62c8-04aa-40a2-8643-7c8262039603" />
